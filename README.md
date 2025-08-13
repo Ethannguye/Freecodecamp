@@ -6,7 +6,7 @@
 |**Project :round_pushpin:**|**Solution :key:**|
 |-----------------------|----------------------|
 |Arithmetic Formatter| [See Solution]()|
-|Time Calculator| [See Solution]()|
+|Time Calculator| [See Solution](https://github.com/Ethannguye/Freecodecamp/tree/main/Time%20Calculator%20Project)|
 |Budget App| [See Solution]()|
 |Polygon Area Calculator| [See Solution]()|
 |Probability Calculator| [See Solution]()|
