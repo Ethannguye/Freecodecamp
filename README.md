@@ -5,7 +5,7 @@
 
 |**Project :round_pushpin:**|**Solution :key:**|
 |-----------------------|----------------------|
-|Arithmetic Formatter| [See Solution]()|
+|Arithmetic Formatter| [See Solution](https://github.com/Ethannguye/Freecodecamp/blob/main/Arithmetic%20Formatter%20Project/arithmetic_arranger.py)|
 |Time Calculator| [See Solution](https://github.com/Ethannguye/Freecodecamp/tree/main/Time%20Calculator%20Project)|
 |Budget App| [See Solution]()|
 |Polygon Area Calculator| [See Solution]()|
