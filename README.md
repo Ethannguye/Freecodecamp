@@ -7,7 +7,7 @@
 |-----------------------|----------------------|
 |Arithmetic Formatter| [See Solution](https://github.com/Ethannguye/Freecodecamp/blob/main/Arithmetic%20Formatter%20Project/arithmetic_arranger.py)|
 |Time Calculator| [See Solution](https://github.com/Ethannguye/Freecodecamp/tree/main/Time%20Calculator%20Project)|
-|Budget App| [See Solution]()|
+|Budget App| [See Solution](https://github.com/Ethannguye/Freecodecamp/blob/main/Budget%20App%20Project/budget.py)|
 |Polygon Area Calculator| [See Solution]()|
 |Probability Calculator| [See Solution]()|
 
