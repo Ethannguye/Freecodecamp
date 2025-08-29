@@ -14,3 +14,6 @@
 💻 **Explore the course [here](https://www.freecodecamp.org/learn/)** :unicorn: 💡
 
 🏅 **View my completion certificate [here](https://www.freecodecamp.org/certification/ethanvansa/scientific-computing-with-python-v7)** 📜 
+
+## Data Analysis with Python 🐍
+
